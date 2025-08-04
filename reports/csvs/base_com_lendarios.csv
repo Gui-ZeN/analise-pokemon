@@ -1,0 +1,801 @@
+name,type_1,generation,legendary
+Bulbasaur,Grass,1,0
+Ivysaur,Grass,1,0
+Venusaur,Grass,1,0
+VenusaurMega Venusaur,Grass,1,0
+Charmander,Fire,1,0
+Charmeleon,Fire,1,0
+Charizard,Fire,1,0
+CharizardMega Charizard X,Fire,1,0
+CharizardMega Charizard Y,Fire,1,0
+Squirtle,Water,1,0
+Wartortle,Water,1,0
+Blastoise,Water,1,0
+BlastoiseMega Blastoise,Water,1,0
+Caterpie,Bug,1,0
+Metapod,Bug,1,0
+Butterfree,Bug,1,0
+Weedle,Bug,1,0
+Kakuna,Bug,1,0
+Beedrill,Bug,1,0
+BeedrillMega Beedrill,Bug,1,0
+Pidgey,Normal,1,0
+Pidgeotto,Normal,1,0
+Pidgeot,Normal,1,0
+PidgeotMega Pidgeot,Normal,1,0
+Rattata,Normal,1,0
+Raticate,Normal,1,0
+Spearow,Normal,1,0
+Fearow,Normal,1,0
+Ekans,Poison,1,0
+Arbok,Poison,1,0
+Pikachu,Electric,1,0
+Raichu,Electric,1,0
+Sandshrew,Ground,1,0
+Sandslash,Ground,1,0
+Nidoran♀,Poison,1,0
+Nidorina,Poison,1,0
+Nidoqueen,Poison,1,0
+Nidoran♂,Poison,1,0
+Nidorino,Poison,1,0
+Nidoking,Poison,1,0
+Clefairy,Fairy,1,0
+Clefable,Fairy,1,0
+Vulpix,Fire,1,0
+Ninetales,Fire,1,0
+Jigglypuff,Normal,1,0
+Wigglytuff,Normal,1,0
+Zubat,Poison,1,0
+Golbat,Poison,1,0
+Oddish,Grass,1,0
+Gloom,Grass,1,0
+Vileplume,Grass,1,0
+Paras,Bug,1,0
+Parasect,Bug,1,0
+Venonat,Bug,1,0
+Venomoth,Bug,1,0
+Diglett,Ground,1,0
+Dugtrio,Ground,1,0
+Meowth,Normal,1,0
+Persian,Normal,1,0
+Psyduck,Water,1,0
+Golduck,Water,1,0
+Mankey,Fighting,1,0
+Primeape,Fighting,1,0
+Growlithe,Fire,1,0
+Arcanine,Fire,1,0
+Poliwag,Water,1,0
+Poliwhirl,Water,1,0
+Poliwrath,Water,1,0
+Abra,Psychic,1,0
+Kadabra,Psychic,1,0
+Alakazam,Psychic,1,0
+AlakazamMega Alakazam,Psychic,1,0
+Machop,Fighting,1,0
+Machoke,Fighting,1,0
+Machamp,Fighting,1,0
+Bellsprout,Grass,1,0
+Weepinbell,Grass,1,0
+Victreebel,Grass,1,0
+Tentacool,Water,1,0
+Tentacruel,Water,1,0
+Geodude,Rock,1,0
+Graveler,Rock,1,0
+Golem,Rock,1,0
+Ponyta,Fire,1,0
+Rapidash,Fire,1,0
+Slowpoke,Water,1,0
+Slowbro,Water,1,0
+SlowbroMega Slowbro,Water,1,0
+Magnemite,Electric,1,0
+Magneton,Electric,1,0
+Farfetch'd,Normal,1,0
+Doduo,Normal,1,0
+Dodrio,Normal,1,0
+Seel,Water,1,0
+Dewgong,Water,1,0
+Grimer,Poison,1,0
+Muk,Poison,1,0
+Shellder,Water,1,0
+Cloyster,Water,1,0
+Gastly,Ghost,1,0
+Haunter,Ghost,1,0
+Gengar,Ghost,1,0
+GengarMega Gengar,Ghost,1,0
+Onix,Rock,1,0
+Drowzee,Psychic,1,0
+Hypno,Psychic,1,0
+Krabby,Water,1,0
+Kingler,Water,1,0
+Voltorb,Electric,1,0
+Electrode,Electric,1,0
+Exeggcute,Grass,1,0
+Exeggutor,Grass,1,0
+Cubone,Ground,1,0
+Marowak,Ground,1,0
+Hitmonlee,Fighting,1,0
+Hitmonchan,Fighting,1,0
+Lickitung,Normal,1,0
+Koffing,Poison,1,0
+Weezing,Poison,1,0
+Rhyhorn,Ground,1,0
+Rhydon,Ground,1,0
+Chansey,Normal,1,0
+Tangela,Grass,1,0
+Kangaskhan,Normal,1,0
+KangaskhanMega Kangaskhan,Normal,1,0
+Horsea,Water,1,0
+Seadra,Water,1,0
+Goldeen,Water,1,0
+Seaking,Water,1,0
+Staryu,Water,1,0
+Starmie,Water,1,0
+Mr. Mime,Psychic,1,0
+Scyther,Bug,1,0
+Jynx,Ice,1,0
+Electabuzz,Electric,1,0
+Magmar,Fire,1,0
+Pinsir,Bug,1,0
+PinsirMega Pinsir,Bug,1,0
+Tauros,Normal,1,0
+Magikarp,Water,1,0
+Gyarados,Water,1,0
+GyaradosMega Gyarados,Water,1,0
+Lapras,Water,1,0
+Ditto,Normal,1,0
+Eevee,Normal,1,0
+Vaporeon,Water,1,0
+Jolteon,Electric,1,0
+Flareon,Fire,1,0
+Porygon,Normal,1,0
+Omanyte,Rock,1,0
+Omastar,Rock,1,0
+Kabuto,Rock,1,0
+Kabutops,Rock,1,0
+Aerodactyl,Rock,1,0
+AerodactylMega Aerodactyl,Rock,1,0
+Snorlax,Normal,1,0
+Articuno,Ice,1,1
+Zapdos,Electric,1,1
+Moltres,Fire,1,1
+Dratini,Dragon,1,0
+Dragonair,Dragon,1,0
+Dragonite,Dragon,1,0
+Mewtwo,Psychic,1,1
+MewtwoMega Mewtwo X,Psychic,1,1
+MewtwoMega Mewtwo Y,Psychic,1,1
+Mew,Psychic,1,0
+Chikorita,Grass,2,0
+Bayleef,Grass,2,0
+Meganium,Grass,2,0
+Cyndaquil,Fire,2,0
+Quilava,Fire,2,0
+Typhlosion,Fire,2,0
+Totodile,Water,2,0
+Croconaw,Water,2,0
+Feraligatr,Water,2,0
+Sentret,Normal,2,0
+Furret,Normal,2,0
+Hoothoot,Normal,2,0
+Noctowl,Normal,2,0
+Ledyba,Bug,2,0
+Ledian,Bug,2,0
+Spinarak,Bug,2,0
+Ariados,Bug,2,0
+Crobat,Poison,2,0
+Chinchou,Water,2,0
+Lanturn,Water,2,0
+Pichu,Electric,2,0
+Cleffa,Fairy,2,0
+Igglybuff,Normal,2,0
+Togepi,Fairy,2,0
+Togetic,Fairy,2,0
+Natu,Psychic,2,0
+Xatu,Psychic,2,0
+Mareep,Electric,2,0
+Flaaffy,Electric,2,0
+Ampharos,Electric,2,0
+AmpharosMega Ampharos,Electric,2,0
+Bellossom,Grass,2,0
+Marill,Water,2,0
+Azumarill,Water,2,0
+Sudowoodo,Rock,2,0
+Politoed,Water,2,0
+Hoppip,Grass,2,0
+Skiploom,Grass,2,0
+Jumpluff,Grass,2,0
+Aipom,Normal,2,0
+Sunkern,Grass,2,0
+Sunflora,Grass,2,0
+Yanma,Bug,2,0
+Wooper,Water,2,0
+Quagsire,Water,2,0
+Espeon,Psychic,2,0
+Umbreon,Dark,2,0
+Murkrow,Dark,2,0
+Slowking,Water,2,0
+Misdreavus,Ghost,2,0
+Unown,Psychic,2,0
+Wobbuffet,Psychic,2,0
+Girafarig,Normal,2,0
+Pineco,Bug,2,0
+Forretress,Bug,2,0
+Dunsparce,Normal,2,0
+Gligar,Ground,2,0
+Steelix,Steel,2,0
+SteelixMega Steelix,Steel,2,0
+Snubbull,Fairy,2,0
+Granbull,Fairy,2,0
+Qwilfish,Water,2,0
+Scizor,Bug,2,0
+ScizorMega Scizor,Bug,2,0
+Shuckle,Bug,2,0
+Heracross,Bug,2,0
+HeracrossMega Heracross,Bug,2,0
+Sneasel,Dark,2,0
+Teddiursa,Normal,2,0
+Ursaring,Normal,2,0
+Slugma,Fire,2,0
+Magcargo,Fire,2,0
+Swinub,Ice,2,0
+Piloswine,Ice,2,0
+Corsola,Water,2,0
+Remoraid,Water,2,0
+Octillery,Water,2,0
+Delibird,Ice,2,0
+Mantine,Water,2,0
+Skarmory,Steel,2,0
+Houndour,Dark,2,0
+Houndoom,Dark,2,0
+HoundoomMega Houndoom,Dark,2,0
+Kingdra,Water,2,0
+Phanpy,Ground,2,0
+Donphan,Ground,2,0
+Porygon2,Normal,2,0
+Stantler,Normal,2,0
+Smeargle,Normal,2,0
+Tyrogue,Fighting,2,0
+Hitmontop,Fighting,2,0
+Smoochum,Ice,2,0
+Elekid,Electric,2,0
+Magby,Fire,2,0
+Miltank,Normal,2,0
+Blissey,Normal,2,0
+Raikou,Electric,2,1
+Entei,Fire,2,1
+Suicune,Water,2,1
+Larvitar,Rock,2,0
+Pupitar,Rock,2,0
+Tyranitar,Rock,2,0
+TyranitarMega Tyranitar,Rock,2,0
+Lugia,Psychic,2,1
+Ho-oh,Fire,2,1
+Celebi,Psychic,2,0
+Treecko,Grass,3,0
+Grovyle,Grass,3,0
+Sceptile,Grass,3,0
+SceptileMega Sceptile,Grass,3,0
+Torchic,Fire,3,0
+Combusken,Fire,3,0
+Blaziken,Fire,3,0
+BlazikenMega Blaziken,Fire,3,0
+Mudkip,Water,3,0
+Marshtomp,Water,3,0
+Swampert,Water,3,0
+SwampertMega Swampert,Water,3,0
+Poochyena,Dark,3,0
+Mightyena,Dark,3,0
+Zigzagoon,Normal,3,0
+Linoone,Normal,3,0
+Wurmple,Bug,3,0
+Silcoon,Bug,3,0
+Beautifly,Bug,3,0
+Cascoon,Bug,3,0
+Dustox,Bug,3,0
+Lotad,Water,3,0
+Lombre,Water,3,0
+Ludicolo,Water,3,0
+Seedot,Grass,3,0
+Nuzleaf,Grass,3,0
+Shiftry,Grass,3,0
+Taillow,Normal,3,0
+Swellow,Normal,3,0
+Wingull,Water,3,0
+Pelipper,Water,3,0
+Ralts,Psychic,3,0
+Kirlia,Psychic,3,0
+Gardevoir,Psychic,3,0
+GardevoirMega Gardevoir,Psychic,3,0
+Surskit,Bug,3,0
+Masquerain,Bug,3,0
+Shroomish,Grass,3,0
+Breloom,Grass,3,0
+Slakoth,Normal,3,0
+Vigoroth,Normal,3,0
+Slaking,Normal,3,0
+Nincada,Bug,3,0
+Ninjask,Bug,3,0
+Shedinja,Bug,3,0
+Whismur,Normal,3,0
+Loudred,Normal,3,0
+Exploud,Normal,3,0
+Makuhita,Fighting,3,0
+Hariyama,Fighting,3,0
+Azurill,Normal,3,0
+Nosepass,Rock,3,0
+Skitty,Normal,3,0
+Delcatty,Normal,3,0
+Sableye,Dark,3,0
+SableyeMega Sableye,Dark,3,0
+Mawile,Steel,3,0
+MawileMega Mawile,Steel,3,0
+Aron,Steel,3,0
+Lairon,Steel,3,0
+Aggron,Steel,3,0
+AggronMega Aggron,Steel,3,0
+Meditite,Fighting,3,0
+Medicham,Fighting,3,0
+MedichamMega Medicham,Fighting,3,0
+Electrike,Electric,3,0
+Manectric,Electric,3,0
+ManectricMega Manectric,Electric,3,0
+Plusle,Electric,3,0
+Minun,Electric,3,0
+Volbeat,Bug,3,0
+Illumise,Bug,3,0
+Roselia,Grass,3,0
+Gulpin,Poison,3,0
+Swalot,Poison,3,0
+Carvanha,Water,3,0
+Sharpedo,Water,3,0
+SharpedoMega Sharpedo,Water,3,0
+Wailmer,Water,3,0
+Wailord,Water,3,0
+Numel,Fire,3,0
+Camerupt,Fire,3,0
+CameruptMega Camerupt,Fire,3,0
+Torkoal,Fire,3,0
+Spoink,Psychic,3,0
+Grumpig,Psychic,3,0
+Spinda,Normal,3,0
+Trapinch,Ground,3,0
+Vibrava,Ground,3,0
+Flygon,Ground,3,0
+Cacnea,Grass,3,0
+Cacturne,Grass,3,0
+Swablu,Normal,3,0
+Altaria,Dragon,3,0
+AltariaMega Altaria,Dragon,3,0
+Zangoose,Normal,3,0
+Seviper,Poison,3,0
+Lunatone,Rock,3,0
+Solrock,Rock,3,0
+Barboach,Water,3,0
+Whiscash,Water,3,0
+Corphish,Water,3,0
+Crawdaunt,Water,3,0
+Baltoy,Ground,3,0
+Claydol,Ground,3,0
+Lileep,Rock,3,0
+Cradily,Rock,3,0
+Anorith,Rock,3,0
+Armaldo,Rock,3,0
+Feebas,Water,3,0
+Milotic,Water,3,0
+Castform,Normal,3,0
+Kecleon,Normal,3,0
+Shuppet,Ghost,3,0
+Banette,Ghost,3,0
+BanetteMega Banette,Ghost,3,0
+Duskull,Ghost,3,0
+Dusclops,Ghost,3,0
+Tropius,Grass,3,0
+Chimecho,Psychic,3,0
+Absol,Dark,3,0
+AbsolMega Absol,Dark,3,0
+Wynaut,Psychic,3,0
+Snorunt,Ice,3,0
+Glalie,Ice,3,0
+GlalieMega Glalie,Ice,3,0
+Spheal,Ice,3,0
+Sealeo,Ice,3,0
+Walrein,Ice,3,0
+Clamperl,Water,3,0
+Huntail,Water,3,0
+Gorebyss,Water,3,0
+Relicanth,Water,3,0
+Luvdisc,Water,3,0
+Bagon,Dragon,3,0
+Shelgon,Dragon,3,0
+Salamence,Dragon,3,0
+SalamenceMega Salamence,Dragon,3,0
+Beldum,Steel,3,0
+Metang,Steel,3,0
+Metagross,Steel,3,0
+MetagrossMega Metagross,Steel,3,0
+Regirock,Rock,3,1
+Regice,Ice,3,1
+Registeel,Steel,3,1
+Latias,Dragon,3,1
+LatiasMega Latias,Dragon,3,1
+Latios,Dragon,3,1
+LatiosMega Latios,Dragon,3,1
+Kyogre,Water,3,1
+KyogrePrimal Kyogre,Water,3,1
+Groudon,Ground,3,1
+GroudonPrimal Groudon,Ground,3,1
+Rayquaza,Dragon,3,1
+RayquazaMega Rayquaza,Dragon,3,1
+Jirachi,Steel,3,1
+DeoxysNormal Forme,Psychic,3,1
+DeoxysAttack Forme,Psychic,3,1
+DeoxysDefense Forme,Psychic,3,1
+DeoxysSpeed Forme,Psychic,3,1
+Turtwig,Grass,4,0
+Grotle,Grass,4,0
+Torterra,Grass,4,0
+Chimchar,Fire,4,0
+Monferno,Fire,4,0
+Infernape,Fire,4,0
+Piplup,Water,4,0
+Prinplup,Water,4,0
+Empoleon,Water,4,0
+Starly,Normal,4,0
+Staravia,Normal,4,0
+Staraptor,Normal,4,0
+Bidoof,Normal,4,0
+Bibarel,Normal,4,0
+Kricketot,Bug,4,0
+Kricketune,Bug,4,0
+Shinx,Electric,4,0
+Luxio,Electric,4,0
+Luxray,Electric,4,0
+Budew,Grass,4,0
+Roserade,Grass,4,0
+Cranidos,Rock,4,0
+Rampardos,Rock,4,0
+Shieldon,Rock,4,0
+Bastiodon,Rock,4,0
+Burmy,Bug,4,0
+WormadamPlant Cloak,Bug,4,0
+WormadamSandy Cloak,Bug,4,0
+WormadamTrash Cloak,Bug,4,0
+Mothim,Bug,4,0
+Combee,Bug,4,0
+Vespiquen,Bug,4,0
+Pachirisu,Electric,4,0
+Buizel,Water,4,0
+Floatzel,Water,4,0
+Cherubi,Grass,4,0
+Cherrim,Grass,4,0
+Shellos,Water,4,0
+Gastrodon,Water,4,0
+Ambipom,Normal,4,0
+Drifloon,Ghost,4,0
+Drifblim,Ghost,4,0
+Buneary,Normal,4,0
+Lopunny,Normal,4,0
+LopunnyMega Lopunny,Normal,4,0
+Mismagius,Ghost,4,0
+Honchkrow,Dark,4,0
+Glameow,Normal,4,0
+Purugly,Normal,4,0
+Chingling,Psychic,4,0
+Stunky,Poison,4,0
+Skuntank,Poison,4,0
+Bronzor,Steel,4,0
+Bronzong,Steel,4,0
+Bonsly,Rock,4,0
+Mime Jr.,Psychic,4,0
+Happiny,Normal,4,0
+Chatot,Normal,4,0
+Spiritomb,Ghost,4,0
+Gible,Dragon,4,0
+Gabite,Dragon,4,0
+Garchomp,Dragon,4,0
+GarchompMega Garchomp,Dragon,4,0
+Munchlax,Normal,4,0
+Riolu,Fighting,4,0
+Lucario,Fighting,4,0
+LucarioMega Lucario,Fighting,4,0
+Hippopotas,Ground,4,0
+Hippowdon,Ground,4,0
+Skorupi,Poison,4,0
+Drapion,Poison,4,0
+Croagunk,Poison,4,0
+Toxicroak,Poison,4,0
+Carnivine,Grass,4,0
+Finneon,Water,4,0
+Lumineon,Water,4,0
+Mantyke,Water,4,0
+Snover,Grass,4,0
+Abomasnow,Grass,4,0
+AbomasnowMega Abomasnow,Grass,4,0
+Weavile,Dark,4,0
+Magnezone,Electric,4,0
+Lickilicky,Normal,4,0
+Rhyperior,Ground,4,0
+Tangrowth,Grass,4,0
+Electivire,Electric,4,0
+Magmortar,Fire,4,0
+Togekiss,Fairy,4,0
+Yanmega,Bug,4,0
+Leafeon,Grass,4,0
+Glaceon,Ice,4,0
+Gliscor,Ground,4,0
+Mamoswine,Ice,4,0
+Porygon-Z,Normal,4,0
+Gallade,Psychic,4,0
+GalladeMega Gallade,Psychic,4,0
+Probopass,Rock,4,0
+Dusknoir,Ghost,4,0
+Froslass,Ice,4,0
+Rotom,Electric,4,0
+RotomHeat Rotom,Electric,4,0
+RotomWash Rotom,Electric,4,0
+RotomFrost Rotom,Electric,4,0
+RotomFan Rotom,Electric,4,0
+RotomMow Rotom,Electric,4,0
+Uxie,Psychic,4,1
+Mesprit,Psychic,4,1
+Azelf,Psychic,4,1
+Dialga,Steel,4,1
+Palkia,Water,4,1
+Heatran,Fire,4,1
+Regigigas,Normal,4,1
+GiratinaAltered Forme,Ghost,4,1
+GiratinaOrigin Forme,Ghost,4,1
+Cresselia,Psychic,4,0
+Phione,Water,4,0
+Manaphy,Water,4,0
+Darkrai,Dark,4,1
+ShayminLand Forme,Grass,4,1
+ShayminSky Forme,Grass,4,1
+Arceus,Normal,4,1
+Victini,Psychic,5,1
+Snivy,Grass,5,0
+Servine,Grass,5,0
+Serperior,Grass,5,0
+Tepig,Fire,5,0
+Pignite,Fire,5,0
+Emboar,Fire,5,0
+Oshawott,Water,5,0
+Dewott,Water,5,0
+Samurott,Water,5,0
+Patrat,Normal,5,0
+Watchog,Normal,5,0
+Lillipup,Normal,5,0
+Herdier,Normal,5,0
+Stoutland,Normal,5,0
+Purrloin,Dark,5,0
+Liepard,Dark,5,0
+Pansage,Grass,5,0
+Simisage,Grass,5,0
+Pansear,Fire,5,0
+Simisear,Fire,5,0
+Panpour,Water,5,0
+Simipour,Water,5,0
+Munna,Psychic,5,0
+Musharna,Psychic,5,0
+Pidove,Normal,5,0
+Tranquill,Normal,5,0
+Unfezant,Normal,5,0
+Blitzle,Electric,5,0
+Zebstrika,Electric,5,0
+Roggenrola,Rock,5,0
+Boldore,Rock,5,0
+Gigalith,Rock,5,0
+Woobat,Psychic,5,0
+Swoobat,Psychic,5,0
+Drilbur,Ground,5,0
+Excadrill,Ground,5,0
+Audino,Normal,5,0
+AudinoMega Audino,Normal,5,0
+Timburr,Fighting,5,0
+Gurdurr,Fighting,5,0
+Conkeldurr,Fighting,5,0
+Tympole,Water,5,0
+Palpitoad,Water,5,0
+Seismitoad,Water,5,0
+Throh,Fighting,5,0
+Sawk,Fighting,5,0
+Sewaddle,Bug,5,0
+Swadloon,Bug,5,0
+Leavanny,Bug,5,0
+Venipede,Bug,5,0
+Whirlipede,Bug,5,0
+Scolipede,Bug,5,0
+Cottonee,Grass,5,0
+Whimsicott,Grass,5,0
+Petilil,Grass,5,0
+Lilligant,Grass,5,0
+Basculin,Water,5,0
+Sandile,Ground,5,0
+Krokorok,Ground,5,0
+Krookodile,Ground,5,0
+Darumaka,Fire,5,0
+DarmanitanStandard Mode,Fire,5,0
+DarmanitanZen Mode,Fire,5,0
+Maractus,Grass,5,0
+Dwebble,Bug,5,0
+Crustle,Bug,5,0
+Scraggy,Dark,5,0
+Scrafty,Dark,5,0
+Sigilyph,Psychic,5,0
+Yamask,Ghost,5,0
+Cofagrigus,Ghost,5,0
+Tirtouga,Water,5,0
+Carracosta,Water,5,0
+Archen,Rock,5,0
+Archeops,Rock,5,0
+Trubbish,Poison,5,0
+Garbodor,Poison,5,0
+Zorua,Dark,5,0
+Zoroark,Dark,5,0
+Minccino,Normal,5,0
+Cinccino,Normal,5,0
+Gothita,Psychic,5,0
+Gothorita,Psychic,5,0
+Gothitelle,Psychic,5,0
+Solosis,Psychic,5,0
+Duosion,Psychic,5,0
+Reuniclus,Psychic,5,0
+Ducklett,Water,5,0
+Swanna,Water,5,0
+Vanillite,Ice,5,0
+Vanillish,Ice,5,0
+Vanilluxe,Ice,5,0
+Deerling,Normal,5,0
+Sawsbuck,Normal,5,0
+Emolga,Electric,5,0
+Karrablast,Bug,5,0
+Escavalier,Bug,5,0
+Foongus,Grass,5,0
+Amoonguss,Grass,5,0
+Frillish,Water,5,0
+Jellicent,Water,5,0
+Alomomola,Water,5,0
+Joltik,Bug,5,0
+Galvantula,Bug,5,0
+Ferroseed,Grass,5,0
+Ferrothorn,Grass,5,0
+Klink,Steel,5,0
+Klang,Steel,5,0
+Klinklang,Steel,5,0
+Tynamo,Electric,5,0
+Eelektrik,Electric,5,0
+Eelektross,Electric,5,0
+Elgyem,Psychic,5,0
+Beheeyem,Psychic,5,0
+Litwick,Ghost,5,0
+Lampent,Ghost,5,0
+Chandelure,Ghost,5,0
+Axew,Dragon,5,0
+Fraxure,Dragon,5,0
+Haxorus,Dragon,5,0
+Cubchoo,Ice,5,0
+Beartic,Ice,5,0
+Cryogonal,Ice,5,0
+Shelmet,Bug,5,0
+Accelgor,Bug,5,0
+Stunfisk,Ground,5,0
+Mienfoo,Fighting,5,0
+Mienshao,Fighting,5,0
+Druddigon,Dragon,5,0
+Golett,Ground,5,0
+Golurk,Ground,5,0
+Pawniard,Dark,5,0
+Bisharp,Dark,5,0
+Bouffalant,Normal,5,0
+Rufflet,Normal,5,0
+Braviary,Normal,5,0
+Vullaby,Dark,5,0
+Mandibuzz,Dark,5,0
+Heatmor,Fire,5,0
+Durant,Bug,5,0
+Deino,Dark,5,0
+Zweilous,Dark,5,0
+Hydreigon,Dark,5,0
+Larvesta,Bug,5,0
+Volcarona,Bug,5,0
+Cobalion,Steel,5,1
+Terrakion,Rock,5,1
+Virizion,Grass,5,1
+TornadusIncarnate Forme,Flying,5,1
+TornadusTherian Forme,Flying,5,1
+ThundurusIncarnate Forme,Electric,5,1
+ThundurusTherian Forme,Electric,5,1
+Reshiram,Dragon,5,1
+Zekrom,Dragon,5,1
+LandorusIncarnate Forme,Ground,5,1
+LandorusTherian Forme,Ground,5,1
+Kyurem,Dragon,5,1
+KyuremBlack Kyurem,Dragon,5,1
+KyuremWhite Kyurem,Dragon,5,1
+KeldeoOrdinary Forme,Water,5,0
+KeldeoResolute Forme,Water,5,0
+MeloettaAria Forme,Normal,5,0
+MeloettaPirouette Forme,Normal,5,0
+Genesect,Bug,5,0
+Chespin,Grass,6,0
+Quilladin,Grass,6,0
+Chesnaught,Grass,6,0
+Fennekin,Fire,6,0
+Braixen,Fire,6,0
+Delphox,Fire,6,0
+Froakie,Water,6,0
+Frogadier,Water,6,0
+Greninja,Water,6,0
+Bunnelby,Normal,6,0
+Diggersby,Normal,6,0
+Fletchling,Normal,6,0
+Fletchinder,Fire,6,0
+Talonflame,Fire,6,0
+Scatterbug,Bug,6,0
+Spewpa,Bug,6,0
+Vivillon,Bug,6,0
+Litleo,Fire,6,0
+Pyroar,Fire,6,0
+Flabébé,Fairy,6,0
+Floette,Fairy,6,0
+Florges,Fairy,6,0
+Skiddo,Grass,6,0
+Gogoat,Grass,6,0
+Pancham,Fighting,6,0
+Pangoro,Fighting,6,0
+Furfrou,Normal,6,0
+Espurr,Psychic,6,0
+MeowsticMale,Psychic,6,0
+MeowsticFemale,Psychic,6,0
+Honedge,Steel,6,0
+Doublade,Steel,6,0
+AegislashBlade Forme,Steel,6,0
+AegislashShield Forme,Steel,6,0
+Spritzee,Fairy,6,0
+Aromatisse,Fairy,6,0
+Swirlix,Fairy,6,0
+Slurpuff,Fairy,6,0
+Inkay,Dark,6,0
+Malamar,Dark,6,0
+Binacle,Rock,6,0
+Barbaracle,Rock,6,0
+Skrelp,Poison,6,0
+Dragalge,Poison,6,0
+Clauncher,Water,6,0
+Clawitzer,Water,6,0
+Helioptile,Electric,6,0
+Heliolisk,Electric,6,0
+Tyrunt,Rock,6,0
+Tyrantrum,Rock,6,0
+Amaura,Rock,6,0
+Aurorus,Rock,6,0
+Sylveon,Fairy,6,0
+Hawlucha,Fighting,6,0
+Dedenne,Electric,6,0
+Carbink,Rock,6,0
+Goomy,Dragon,6,0
+Sliggoo,Dragon,6,0
+Goodra,Dragon,6,0
+Klefki,Steel,6,0
+Phantump,Ghost,6,0
+Trevenant,Ghost,6,0
+PumpkabooAverage Size,Ghost,6,0
+PumpkabooSmall Size,Ghost,6,0
+PumpkabooLarge Size,Ghost,6,0
+PumpkabooSuper Size,Ghost,6,0
+GourgeistAverage Size,Ghost,6,0
+GourgeistSmall Size,Ghost,6,0
+GourgeistLarge Size,Ghost,6,0
+GourgeistSuper Size,Ghost,6,0
+Bergmite,Ice,6,0
+Avalugg,Ice,6,0
+Noibat,Flying,6,0
+Noivern,Flying,6,0
+Xerneas,Fairy,6,1
+Yveltal,Dark,6,1
+Zygarde50% Forme,Dragon,6,1
+Diancie,Rock,6,1
+DiancieMega Diancie,Rock,6,1
+HoopaHoopa Confined,Psychic,6,1
+HoopaHoopa Unbound,Psychic,6,1
+Volcanion,Fire,6,1
