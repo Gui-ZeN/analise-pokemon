@@ -2,14 +2,12 @@ import sqlite3
 import pandas as pd
 import os
 
-# Caminho do banco
+
 db_path = 'C:/Users/Pichau/Desktop/analise_pkmn/data/pokemon.db'
 
-# Pasta para salvar os CSVs (crie se não existir)
 output_folder = 'C:/Users/Pichau/Desktop/analise_pkmn/reports/csvs'
 os.makedirs(output_folder, exist_ok=True)
 
-# Conectar ao banco
 conn = sqlite3.connect(db_path)
 
 queries = {
